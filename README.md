@@ -20,4 +20,4 @@ Project created to learn React
 
 When deployed into master branch automatically build into Netlify site.
 
-[Go to Netlify site](https://events-jaimenunezl.netlify.com "Veterinary")
+[Go to Netlify site](https://events-jaimenunezl.netlify.com "Events")
