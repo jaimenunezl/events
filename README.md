@@ -2,7 +2,7 @@
 
 Project created to learn React
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fc6dfaaa-334c-4c16-a0df-7732b7deb85a/deploy-status)](https://app.netlify.com/sites/veterinary-jaimenunezl/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c61d5531-0971-4a68-8376-c153c5191401/deploy-status)](https://app.netlify.com/sites/events-jaimenunezl/deploys)
 
 ## Requirement
 
@@ -11,8 +11,8 @@ Project created to learn React
 
 ## Installation
 
-- `git clone https://github.com/jaimenunezl/veterinary.git`
-- `cd veterinary`
+- `git clone https://github.com/jaimenunezl/events.git`
+- `cd events`
 - `npm install`
 - `npm run start`
 
@@ -20,4 +20,4 @@ Project created to learn React
 
 When deployed into master branch automatically build into Netlify site.
 
-[Go to Netlify site](https://veterinary-jaimenunezl.netlify.com "Veterinary")
+[Go to Netlify site](https://events-jaimenunezl.netlify.com "Veterinary")
